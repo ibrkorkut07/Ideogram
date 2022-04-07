@@ -1,0 +1,4 @@
+Merhaba dunya
+Bugun hava soguk
+console.log ('merhaba')
+mn

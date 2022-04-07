@@ -1,0 +1,9 @@
+1.satir
+2.satir
+3.satir
+4.satir
+<<<<<<< HEAD
+5. satir conflict olmasini bekliyorum
+=======
+-- conflict olacak
+>>>>>>> sari
